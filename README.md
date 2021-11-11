@@ -18,6 +18,7 @@
  * [piano genie blog post](https://magenta.tensorflow.org/pianogenie)
    * [github](https://github.com/magenta/magenta/tree/main/magenta/models/piano_genie), tensorflow
    * [pytorch port and tutorial by pg author](https://pythonrepo.com/repo/chrisdonahue-music-cocreation-tutorial-python-deep-learning)
+   * [music generation talk by pg author](https://www.youtube.com/watch?v=OCc4V2aWpHQ)
 
 ## Talks
  * [Motors, Magnets and Motion/Ableton](https://www.youtube.com/watch?v=hJHwhb99Bzo)
