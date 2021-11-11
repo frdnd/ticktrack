@@ -1,25 +1,23 @@
-# ticktrack
+# ticktrack - Awesome electromechanical projects
 
-## Awesome electromechanical projects
-
-### Sequencer
+## Sequencer
   * [Teensy midi euclidean sequencer (arduino IDE)](https://www.youtube.com/watch?v=aqOsPZUo860)
-    * i'll build a variant based on 3x 24-led-rings
+    * I'll build a variant based on 3x 24-led-rings
       * interface will be 3x3 sliders for step-length, num-steps, offset
       * based either on teensy playing digital samples or arduino activating solenoids
 
-### Solenoid based instruments
-  * [Solenoid acoustic drum](https://www.youtube.com/watch?v=m6YOYpnz9Lw)
+## Solenoid based instruments
+  * [Solenoid acoustic drum machine](https://www.youtube.com/watch?v=m6YOYpnz9Lw)
   * [MIDI Solenoid Drummer #crickit #feather @adafruit #adafruit](https://www.youtube.com/watch?v=Lcz0BvNOc4c)
   * i'll build a variant of the above based on 5v and 12v solenoids
     * either combining the solenoids with a euclidean sequencer
     * or replaying a mp3 and syncing the stems of kick/drums/highhat to the solenoids (will be difficult to get the stems correctly)
     * midi maybe later
   
-### Talks
+## Talks
   * [Motors, Magnets and Motion/Ableton](https://www.youtube.com/watch?v=hJHwhb99Bzo)
     * the first two artists are quite interesting
-  * i plan to build a variant above
+  * I plan to build a variant above
     * based on teensy and piezo microphones, how to design the amp-circuit?
     
 ## Resources
@@ -32,4 +30,5 @@
 
 ### Music source separation
   * [Bytedances music source separation tool (GPU based)](https://github.com/bytedance/music_source_separation)
+   * not tested yet
   
