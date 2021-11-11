@@ -8,7 +8,7 @@
 
 ## Solenoid based instruments
  * [Solenoid acoustic drum machine](https://www.youtube.com/watch?v=m6YOYpnz9Lw)
- * [MIDI Solenoid Drummer #crickit #feather @adafruit #adafruit](https://www.youtube.com/watch?v=Lcz0BvNOc4c)
+ * [MIDI Solenoid Drummer](https://www.youtube.com/watch?v=Lcz0BvNOc4c)
  * frdnd will build a variant of the above based on 5v and 12v solenoids
    * either combining the solenoids with a euclidean sequencer
    * or replaying a mp3 and syncing the stems of kick/drums/highhat to the solenoids (will be difficult to get the stems correctly)
@@ -39,5 +39,5 @@
 
 ### Available Hardware
  * frdnd
-   *  arduino*, esp8266, esp32, coral devboard, (jetson nano)
+   *  arduino*, esp8266, esp32, coral devboard, (jetson nano), teensy 4.1 & audioshield
   
